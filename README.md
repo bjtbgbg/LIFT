@@ -1,5 +1,5 @@
 ## Usage
-First, clone the repository locally:
+Clone the repository locally:
 ```
 $ git clone https://github.com/bjtbgbg/LIFT.git
 ```
